@@ -1,0 +1,17 @@
+{
+  "name": "ble-connect",
+  "version": "1.0.0",
+  "description": "Node.js ble connect code to connect Arduino101",
+  "main": "secure_single_v4.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "ble"
+  ],
+  "author": "Gurunath Pai",
+  "license": "ISC",
+  "dependencies": {
+    "noble": "^1.8.1"
+  }
+}
